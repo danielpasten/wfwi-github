@@ -14,7 +14,7 @@ Microsoft.MicrosoftEdge.Stable
 #Microsoft.MicrosoftSolitaireCollection
 Microsoft.MicrosoftStickyNotes
 Microsoft.Paint
-Microsoft.People
+#Microsoft.People
 Microsoft.PowerAutomateDesktop
 Microsoft.ScreenSketch
 Microsoft.SecHealthUI
@@ -45,4 +45,4 @@ Microsoft.WindowsTerminal
 #Microsoft.ZuneMusic
 #Microsoft.ZuneVideo
 #MicrosoftTeams
-MicrosoftWindows.Client.WebExperience
+#MicrosoftWindows.Client.WebExperience
